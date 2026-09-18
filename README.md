@@ -168,4 +168,12 @@ Try testing these questions inside the Streamlit interface:
 * *"Count how many tickets are currently open per category."*
 
 ---
+## 🛡️License
+Distributed under the MIT License. See LICENSE for more information.
 
+
+<ElicitationsGroup message="Would you like assistance with any of these next steps?">
+  <Elicitation label="Create a LICENSE file for GitHub" query="Generate a standard MIT License file that I can add to my GitHub repository."/>
+  <Elicitation label="Deploy FastAPI to Render" query="Give me step-by-step instructions to deploy my FastAPI backend live on Render."/>
+  <Elicitation label="Deploy Streamlit UI to Streamlit Cloud" query="Give me step-by-step instructions to deploy my Streamlit app live on Streamlit Cloud."/>
+</ElicitationsGroup>
